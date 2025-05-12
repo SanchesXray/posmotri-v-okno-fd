@@ -236,7 +236,6 @@ ol {
   height: 100%;
   overflow-y: auto;
   padding-right: 4px;
-  scrollbar-gutter: stable;
 }
 
 .content__list-item:not(:last-child) {
